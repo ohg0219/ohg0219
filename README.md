@@ -15,14 +15,6 @@
 
 ---
 
-## 🚀 Main Project
-
-### [my_game_portal](https://github.com/ohg0219/my_game_portal)
-- 바이브 코딩으로 만들고 있는 토이 프로젝트입니다.
-- 다양한 아이디어와 실험을 자유롭게 시도하는 공간입니다.
-
----
-
 ## 💡 Skills
 
 - Java, Spring Framework, JPA, REST API
